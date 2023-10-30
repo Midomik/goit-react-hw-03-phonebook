@@ -1,0 +1,10 @@
+.contact_item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  border: 2px solid #000;
+  padding: 5px;
+  border-radius: 10px;
+}
+.delete_item {
+}
